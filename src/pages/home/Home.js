@@ -6,7 +6,7 @@ function Home(){
         <div className="home">
             {/* ajustar imagen arriba y poca separacion OK*/}
                 <div className="home-principal">
-                <img className="img-Evento" alt="description of image" src={require("../../img/logo.PNG")}/>
+                <img className="img-Evento" alt="description" src={require("../../img/logo.PNG")}/>
                 {/* centrar la forma en medio OK */}
                 {/* font family : modern twenty OK*/}
                     <div className="home-text">
@@ -20,7 +20,7 @@ function Home(){
                 </div>
         </div>
        <div>
-       <img className="img-Home" alt="description of image" src={require("../../img/local/place-1.JPG")}/>
+       <img className="img-Home" alt="description" src={require("../../img/local/place-1.JPG")}/>
 
        </div>
        </div>
